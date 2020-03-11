@@ -7,5 +7,5 @@ This package contains 3 Jupyter notebooks. The main model is stored in <b>ymap_c
 
 Refinitiv Eikon or Refinitiv Workspace with access to Eikon Data APIs.
 
-<b>Required Python Packages:</b> eikon, pandas, numpy, matplotlib, numba, scipy, ipynb.
+<b>Required Python Packages:</b> eikon, pandas, numpy, matplotlib, numba, scipy, ipynb.<br>
 <b>Other dependencies:</b> bond_metadata.ipynb, curve_fitting.ipynb
